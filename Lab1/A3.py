@@ -7,5 +7,5 @@ height = 12
 # Be careful on the order of operations, use brackets when needed.
 area = ((base1 + base2) / 2) * height
 
-# Print the are of the trapezoid to the user.
-print("The are of the trapezoid is:", area)
+# Print the area of the trapezoid to the user.
+print("The area of the trapezoid is:", area)
